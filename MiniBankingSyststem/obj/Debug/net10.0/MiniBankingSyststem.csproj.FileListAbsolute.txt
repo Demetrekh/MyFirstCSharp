@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\MiniBankingSyststem\MiniBankingSyststem\obj\Debug\net10.0\MiniBankingSyststem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\MiniBankingSyststem\MiniBankingSyststem\obj\Debug\net10.0\MiniBankingSyststem.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\MiniBankingSyststem\MiniBankingSyststem\obj\Debug\net10.0\MiniBankingSyststem.AssemblyInfo.cs
+C:\Users\Hp\source\repos\MiniBankingSyststem\MiniBankingSyststem\obj\Debug\net10.0\MiniBankingSyststem.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\MiniBankingSyststem\MiniBankingSyststem\bin\Debug\net10.0\MiniBankingSyststem.exe
+C:\Users\Hp\source\repos\MiniBankingSyststem\MiniBankingSyststem\bin\Debug\net10.0\MiniBankingSyststem.deps.json
+C:\Users\Hp\source\repos\MiniBankingSyststem\MiniBankingSyststem\bin\Debug\net10.0\MiniBankingSyststem.runtimeconfig.json
+C:\Users\Hp\source\repos\MiniBankingSyststem\MiniBankingSyststem\bin\Debug\net10.0\MiniBankingSyststem.dll
+C:\Users\Hp\source\repos\MiniBankingSyststem\MiniBankingSyststem\bin\Debug\net10.0\MiniBankingSyststem.pdb
+C:\Users\Hp\source\repos\MiniBankingSyststem\MiniBankingSyststem\obj\Debug\net10.0\MiniBankingSyststem.dll
+C:\Users\Hp\source\repos\MiniBankingSyststem\MiniBankingSyststem\obj\Debug\net10.0\refint\MiniBankingSyststem.dll
+C:\Users\Hp\source\repos\MiniBankingSyststem\MiniBankingSyststem\obj\Debug\net10.0\MiniBankingSyststem.pdb
+C:\Users\Hp\source\repos\MiniBankingSyststem\MiniBankingSyststem\obj\Debug\net10.0\MiniBankingSyststem.genruntimeconfig.cache
+C:\Users\Hp\source\repos\MiniBankingSyststem\MiniBankingSyststem\obj\Debug\net10.0\ref\MiniBankingSyststem.dll
+C:\Users\Hp\source\repos\MiniBankingSyststem\MiniBankingSyststem\obj\Debug\net10.0\MiniBankingSyststem.sourcelink.json
