@@ -1,9 +1,9 @@
-#💳 Mini Banking System (C#)
+# 💳 Mini Banking System (C#)
 
 This is my first simple C# project 🎉
 It is a basic Mini Banking System built using C# to practice core programming concepts.
 
-##📌 About The Project
+## 📌 About The Project
 
 The Mini Banking System simulates basic banking operations such as:
 
@@ -27,7 +27,7 @@ Basic input/output handling
 
 Conditional statements and loops
 
-##🛠️ Built With
+## 🛠️ Built With
 
 C#
 
@@ -35,7 +35,7 @@ C#
 
 Visual Studio
 
-##🚀 How To Run
+## 🚀 How To Run
 
 Open the project in Visual Studio
 
