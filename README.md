@@ -45,7 +45,7 @@ Run the program
 
 Follow the menu instructions in the console
 
-##📚 What I Learned
+## 📚 What I Learned
 
 Through this project, I learned:
 
